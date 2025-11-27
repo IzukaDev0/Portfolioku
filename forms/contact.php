@@ -1,5 +1,5 @@
 <?php
-  $receiving_email_address = 'contact@rizalnida45.com'; // Replace with your email
+  $receiving_email_address = 'rizalnida45@gmail.com'; // Replace with your email
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
