@@ -13,9 +13,9 @@ untuk memberikan watermark dari saya
 https://chat.whatsapp.com/Li0aVWK3T8FI6P8NTRJeoO
 
 *TELEGRAM*
-t.me/Izuka_Real
+https://t.me/Izuka_Real
 
 *WHATSAPP*
-wa.me/62881026351241
+https://wa.me/62881026351241
 
 **HAPPY CODING😙**
